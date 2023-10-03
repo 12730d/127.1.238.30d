@@ -14,6 +14,9 @@ sudo bash Giv-hand.sh
 
 # Tools used
 aircrack-ng 
+
 airodump-ng
+
 airmon-ng 
+
 crunch
