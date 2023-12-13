@@ -1,22 +1,6 @@
-# Giv-hand
+# Important warning: ⚠️
+This repository is private, and the creator of this repository will not be responsible for any damages that occur as a result of the use of any of the scripts, payloads, programs, or anything presented in this repository.
 
-He pulled the handshake and broke it
+Any scripts, software, or other services offered in this repository are proprietary execution files built with {30D} client code.
 
-# Run script BASH
-
-sudo git clone https://github.com/osamarzq/Giv-hand.git
-
-cd Giv-hand
-
-sudo chmod +x Giv-hand.sh
-
-sudo bash Giv-hand.sh
-
-# Tools used
-aircrack-ng 
-
-airodump-ng
-
-airmon-ng 
-
-crunch
+Warning The tool uses all the resources of the device to quickly drop the target ⚠️⚠️⚠️
